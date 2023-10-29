@@ -1,18 +1,18 @@
 .group17 {
-    width: 737px;
-    height: 826px;
-    flex-shrink: 0;
-    /* margin: auto 352px;
-    margin: 50px auto; */
+  width: 737px;
+  height: 826px;
+  flex-shrink: 0;
+  margin: auto 153px;
+  /* margin-top: 55; */
   }
   
-  .text {
+   .text {
     color: var(--2D2D2D, #2D2D2D);
     font-family: Inter;
     font-size: 20px;
     font-weight: 700;
     line-height: normal;
-  }
+  } 
   
   .group15 {
     width: 737px;
@@ -36,12 +36,15 @@
   .text-2 {
     color: var(--A445ED, #A445ED);
     font-feature-settings: 'clig' off, 'liga' off;
-    font-family: Inter;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-  }
+
+   /* Heading M - Sans */
+   font-family: Inter;
+   font-size: 24px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+   /* margin-right: 11px; */
+}
 
   .group4 {
     width: 75px;
@@ -59,15 +62,12 @@
   .group2{
     display: inline-flex;
     height: 29px;
-    width: 736px;
     justify-content: center;
     align-items: center;
     gap: 20px;
     flex-shrink: 0;
-    margin-top: 40px;
-    }
+}
     
-  
   .text-3 {
    color: var(--2D2D2D, #2D2D2D);
    font-family: Inter;
@@ -75,21 +75,20 @@
    font-style: italic;
    font-weight: 700;
    line-height: normal;
-   margin-right: 20px; 
+   /* margin-right: 20px;  */
   }
   
-  .rectangle-icon {
+  /* .rectangle-icon {
     width: 656px;
     height: 1px;
     background: var(--E9E9E9, blue);
-  }
+  } */
 
- 
- .group11{
+.group11{
   width: 736px;
   height: 243px;
   flex-shrink: 0;
-  margin-top: 20px;
+  /* margin-top: 20px; */
   }
 
   .text-4{
@@ -100,6 +99,8 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    /* margin-top: 150px;
+    margin-right: 222px; */
 }
   
  

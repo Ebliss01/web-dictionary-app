@@ -11,25 +11,21 @@ const UserCard = () => {
           <p className='text-1'>Dashboard</p>
           <p className='text-2'>/ˈkiːbɔːd/</p>
         </div>
-
-        <img className='group4'
-        src={AudioIcon} alt="Audio Icon" />
+        <img className='group4' src={AudioIcon} alt="Audio Icon" />
       </div>
 
       <div className='group14'>
         <div className='group2'>
           <p className='text-3'>noun</p>
-          {/* <img className='rectangle-icon' 
-          src={RectangleIcon} alt="Rectangle Icon" /> */}
-
-          <div className='group11'>
-            <p className='text-4'>meaning</p>
-
-          </div>
+          
+          <img className='rectangle-icon'
+          src={RectangleIcon} alt="Rectangle Icon" />
         </div>
-        
+
+        <div className='group11'>
+          <p className='text-4'>meaning</p>
+        </div>
       </div>
-      
     </div>
   );
 }
