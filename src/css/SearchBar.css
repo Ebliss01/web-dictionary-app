@@ -1,0 +1,39 @@
+.group16{
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  width: auto;
+  margin: auto 352px;
+  margin-top: 50px;
+  border-radius: 16px;
+  background: var(--F4F4F4, #F4F4F4);
+  width: 736px;
+  height: 64px;
+  flex-shrink: 0;
+  margin-left: 155px;
+}
+ 
+input {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 20px;
+  background-color: #F4F4F4;
+  
+}
+
+.iconoir_search {
+  font-size: 1.5em;
+  margin-right: 20px;
+}
+
+
+input::placeholder {
+  color: var(--2D2D2D, #a59595);
+ -family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-indent: 20px;
+}

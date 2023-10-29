@@ -1,0 +1,19 @@
+<svg width="13" height="9" viewBox="0 0 13 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="13" height="9" fill="#F2F2F2"/>
+<g id="Desktop - Light - Sans" clip-path="url(#clip0_0_165)">
+<rect width="1440" height="1205" transform="translate(-942 -72)" fill="white"/>
+<g id="Group 10">
+<g id="Group 13" clip-path="url(#clip1_0_165)">
+<path id="Path 3" d="M1 1L7 7L13 1" stroke="#A445ED" stroke-width="1.5"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_165">
+<rect width="1440" height="1205" fill="white" transform="translate(-942 -72)"/>
+</clipPath>
+<clipPath id="clip1_0_165">
+<rect width="120" height="24" fill="white" transform="translate(-107 -9)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.group10{
+    display: flex;
+    justify-content: space-between;
+    gap: 11
+    pxpx;
+    margin-top: 80px;
+    align-items: center;
+    width: 736.993px;
+    height: 36.5px;
+    flex-shrink: 0;
+    margin-left: 165px; 
+}
+
+
+.book-icon{
+    width: 32px;
+    height: 36.5px;
+    flex-shrink: 0;
+    cursor: pointer;
+}
+
+
+.text{
+    color: var(--2D2D2D, #2D2D2D);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 133.333% */
+}
+
+
+.path3-icon{
+    width: 12px;
+    height: 10px;
+    stroke-width: 1.5px;
+    stroke: var(--A445ED, #A445ED);
+}
+  
+.group13{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+    margin-left: 55%;     
+}
+
+
+
+
+
+
+
